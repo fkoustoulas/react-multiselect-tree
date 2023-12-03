@@ -3,6 +3,7 @@
  react-multiselect-tree is a package that solves the problem of having set a tree with a select UI. After searching on web for similar packages i didn't find any package that could fit my needs.
 
 ![](https://github.com/fkoustoulas/react-multiselect-tree/blob/main/src/CPT2312031739-522x540.gif)
+
  At first, to use this package you must install it via npm:
 
  ```
