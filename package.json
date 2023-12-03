@@ -1,14 +1,14 @@
 {
   "name": "react-multiselect-tree",
-  "version": "1.0.2",
-  "description": "Simple check tree",
+  "version": "1.0.5",
+  "description": "react-multiselect-tree is a package that solves the problem of having set a tree with a select UI",
   "main": "./build/CheckTree.js",
   "scripts": {
     "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkoustoulas/react-check-tree.git"
+    "url": "git+https://github.com/fkoustoulas/react-multiselect-tree.git"
   },
   "keywords": [
     "react"
@@ -16,9 +16,9 @@
   "author": "Theofanis Koustoulas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fkoustoulas/react-check-tree/issues"
+    "url": "https://github.com/fkoustoulas/react-multiselect-tree/issues"
   },
-  "homepage": "https://github.com/fkoustoulas/react-check-tree#readme",
+  "homepage": "https://github.com/fkoustoulas/react-multiselect-tree#readme",
   "devDependencies": {
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
