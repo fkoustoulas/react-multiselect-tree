@@ -1,6 +1,6 @@
 {
   "name": "react-multiselect-tree",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "react-multiselect-tree is a package that solves the problem of having set a tree with a select UI",
   "main": "./build/CheckTree.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/fkoustoulas/react-multiselect-tree.git"
   },
   "keywords": [
-    "react"
+    "react", "select", "select-tree", "multiselect", "treeview", "tree" 
   ],
   "author": "Theofanis Koustoulas",
   "license": "ISC",
