@@ -1,6 +1,6 @@
 {
   "name": "react-multiselect-tree",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "react-multiselect-tree is a package that solves the problem of having set a tree with a select UI",
   "main": "./build/CheckTree.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/fkoustoulas/react-multiselect-tree.git"
   },
   "keywords": [
-    "react", "select", "select-tree", "multiselect", "treeview", "tree" 
+    "react",
+    "select",
+    "select-tree",
+    "multiselect",
+    "treeview",
+    "tree"
   ],
   "author": "Theofanis Koustoulas",
   "license": "ISC",
@@ -20,16 +25,10 @@
   },
   "homepage": "https://github.com/fkoustoulas/react-multiselect-tree#readme",
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.6",
-    "@babel/preset-react": "^7.7.4",
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.3.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
     "react-scripts": "5.0.1",
     "style-loader": "^1.0.1",
     "web-vitals": "^2.1.4",
@@ -38,12 +37,8 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "5.0.1"
   }
 }
